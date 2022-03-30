@@ -1,14 +1,14 @@
 
-##school of Computer Science and Technology, Jilin University
-##This is a simple practice to get started with markdown
+## school of Computer Science and Technology, Jilin University
+## This is a simple practice to get started with markdown
 
-##1. Title
+## 1. Title
 
-##h2
+## h2
 
-####h4
+#### h4
 
-##2. Code block
+## 2. Code block
 
 ```pycon
 #python code example
@@ -39,58 +39,58 @@ def getContent(url, name):
 java -jar blog start
 ```
 
-##3. Font
+## 3. Font
 
-###**bolded text**
+### **bolded text**
 
-###~~strikethrough text~~
+### ~~strikethrough text~~
 
-###*italicized text*
+### *italicized text*
 
-##4. Quote
+## 4. Quote
 
 > primary quote
 >> secondary quote
 >>> tertiary quote
 
-##5. Dividing line
+## 5. Dividing line
 
 ---
 
 ***
 
-##6. Image insertion
+## 6. Image insertion
 
 ![image 1](logo.png)
 
 ![image 2](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnimg.ws.126.net%2F%3Furl%3Dhttp%253A%252F%252Fdingyue.ws.126.net%252F2021%252F0911%252Fd6c3858fj00qz8re6003vc000b4007rg.jpg%26thumbnail%3D650x2147483647%26quality%3D80%26type%3Djpg&refer=http%3A%2F%2Fnimg.ws.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1651225144&t=99b3f0696e72145e66752aff693754cc)
 
-##7. Link
+## 7. Link
 
-####Hyperlink
+#### Hyperlink
 
 [my github](https://github.com/ikaros2000/THH_repo)
 
 [baidu](https://www.baidu.com/)
 
-####Interpage links
+#### Interpage links
 
 [readme.md](readme.md)
 
-##8. list
+## 8. list
 
-####a bulleted list
+#### a bulleted list
 
 - line 1
 - line 2
 - line 3
 
-####a numbered list
+#### a numbered list
 1. line 1
 2. line 2
 3. line 3
 
-##9.table
+## 9.table
 
 |  subject   | grade  |
 | :-----:| :----: | 
