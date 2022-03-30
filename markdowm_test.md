@@ -1,5 +1,5 @@
 
-## school of Computer Science and Technology, Jilin University
+## School of Computer Science and Technology, Jilin University
 ## This is a simple practice to get started with markdown
 
 ## 1. Title
